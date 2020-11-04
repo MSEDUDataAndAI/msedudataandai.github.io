@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Central Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Ana Del Campo Mendizabal";RSVP=FALSE:mailto:Del.Ana@microsoft.
+	com
+CLASS:PUBLIC
+CREATED:20201104T214635Z
+DESCRIPTION:Microsoft US Education - Data and AI Office Hour\n\n \n\n______
+	__________________________________________________________________________
+	 \n\nMicrosoft Teams meeting \n\nJoin on your computer or mobile app \n\nC
+	lick here to join the meeting <https://teams.microsoft.com/l/meetup-join/1
+	9%3ameeting_ODQ2NDQwOTEtYTE1Ni00MTQyLTliZTctZDA0YjU5MzQxNzYw%40thread.v2/0
+	?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oi
+	d%22%3a%226249fe15-c6e5-4382-8452-bcdbac0a2ff8%22%7d>  \n\nOr call in (aud
+	io only) \n\n+1 425-616-0754\,\,659554102# <tel:+14256160754\,\,659554102#
+	>    United States\, Seattle \n\nPhone Conference ID: 659 554 102# \n\nFin
+	d a local number <https://dialin.teams.microsoft.com/8551f4c1-bea3-441a-87
+	38-69aa517a91c5?id=659554102>  | Reset PIN <https://mysettings.lync.com/ps
+	tnconferencing>  \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeti
+	ng options <https://teams.microsoft.com/meetingOptions/?organizerId=6249fe
+	15-c6e5-4382-8452-bcdbac0a2ff8&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db
+	47&threadId=19_meeting_ODQ2NDQwOTEtYTE1Ni00MTQyLTliZTctZDA0YjU5MzQxNzYw@th
+	read.v2&messageId=0&language=en-US>  \n\n_________________________________
+	_______________________________________________ \n\n \n\n
+DTEND;TZID="Central Standard Time":20201208T150000
+DTSTAMP:20201103T222458Z
+DTSTART;TZID="Central Standard Time":20201208T140000
+LAST-MODIFIED:20201104T214635Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Shimail Gillani":mailto:shgilla@microsoft.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:Microsoft US Education - Data and AI Office Hour
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000090D0558EF9B1D601000000000000000
+	010000000C9756905152A0D4CBA68BF183E870EC9
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 
+	2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2
+	 11 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Cali
+	bri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;
+	\n	color:#0563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n	{ms
+	o-style-type:personal-compose\;\n	font-family:"Arial"\,sans-serif\;\n	colo
+	r:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-siz
+	e:10.0pt\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0i
+	n 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!-
+	-[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</
+	xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o
+	:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head>
+	<body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:break-wor
+	d'><div class=WordSection1><p class=MsoNormal><span style='font-family:"Ar
+	ial"\,sans-serif'>Microsoft US Education - Data and AI Office Hour<o:p></o
+	:p></span></p><p class=MsoNormal><span style='font-family:"Arial"\,sans-se
+	rif'><o:p>&nbsp\;</o:p></span></p><div><p class=MsoNormal><span style='col
+	or:#5F5F5F'>______________________________________________________________
+	__________________</span> <o:p></o:p></p></div><div><div style='margin-top
+	:.25in\;margin-bottom:15.0pt'><p class=MsoNormal><span style='font-size:18
+	.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Microsoft Teams m
+	eeting</span><span style='font-family:"Segoe UI"\,sans-serif\;color:#25242
+	4'> <o:p></o:p></span></p></div><div style='margin-bottom:15.0pt'><div><p 
+	class=MsoNormal><b><span style='font-size:10.5pt\;font-family:"Segoe UI"\,
+	sans-serif\;color:#252424'>Join on your computer or mobile app</span></b><
+	b><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></
+	o:p></span></b></p></div><p class=MsoNormal><span style='font-family:"Sego
+	e UI"\,sans-serif\;color:#252424'><a href="https://teams.microsoft.com/l/m
+	eetup-join/19%3ameeting_ODQ2NDQwOTEtYTE1Ni00MTQyLTliZTctZDA0YjU5MzQxNzYw%4
+	0thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db4
+	7%22%2c%22Oid%22%3a%226249fe15-c6e5-4382-8452-bcdbac0a2ff8%22%7d" target="
+	_blank"><span style='font-size:10.5pt\;font-family:"Segoe UI Semibold"\,sa
+	ns-serif\;color:#6264A7'>Click here to join the meeting</span></a> <o:p></
+	o:p></span></p></div><div style='margin-bottom:3.0pt'><div style='margin-b
+	ottom:3.0pt'><p class=MsoNormal><b><span style='font-size:10.5pt\;font-fam
+	ily:"Segoe UI"\,sans-serif\;color:#252424'>Or call in (audio only)</span><
+	/b><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p><
+	/o:p></span></p></div><div style='margin-bottom:3.0pt'><p class=MsoNormal>
+	<span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="t
+	el:+14256160754\,\,659554102# "><span style='font-size:10.5pt\;color:#6264
+	A7'>+1 425-616-0754\,\,659554102#</span></a> </span><span style='font-size
+	:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>&nbsp\; United
+	 States\, Seattle </span><span style='font-family:"Segoe UI"\,sans-serif\;
+	color:#252424'><o:p></o:p></span></p></div></div><p class=MsoNormal><span 
+	style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424
+	'>Phone Conference ID: </span><span style='font-size:12.0pt\;font-family:"
+	Segoe UI"\,sans-serif\;color:#252424'>659 554 102# </span><span style='fon
+	t-family:"Segoe UI"\,sans-serif\;color:#252424'><o:p></o:p></span></p><div
+	 style='margin-bottom:15.0pt'><p class=MsoNormal><span style='font-family:
+	"Segoe UI"\,sans-serif\;color:#252424'><a href="https://dialin.teams.micro
+	soft.com/8551f4c1-bea3-441a-8738-69aa517a91c5?id=659554102" target="_blank
+	"><span style='font-size:10.5pt\;color:#6264A7'>Find a local number</span>
+	</a> | <a href="https://mysettings.lync.com/pstnconferencing" target="_bla
+	nk"><span style='font-size:10.5pt\;color:#6264A7'>Reset PIN</span></a> <o:
+	p></o:p></span></p></div><div style='margin-top:15.0pt\;margin-bottom:.25i
+	n'><p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;col
+	or:#252424'><a href="https://aka.ms/JoinTeamsMeeting" target="_blank"><spa
+	n style='font-size:10.5pt\;color:#6264A7'>Learn More</span></a> | <a href=
+	"https://teams.microsoft.com/meetingOptions/?organizerId=6249fe15-c6e5-438
+	2-8452-bcdbac0a2ff8&amp\;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp
+	\;threadId=19_meeting_ODQ2NDQwOTEtYTE1Ni00MTQyLTliZTctZDA0YjU5MzQxNzYw@thr
+	ead.v2&amp\;messageId=0&amp\;language=en-US" target="_blank"><span style='
+	font-size:10.5pt\;color:#6264A7'>Meeting options</span></a> <o:p></o:p></s
+	pan></p></div></div><div><p class=MsoNormal><span style='color:#5F5F5F'>__
+	__________________________________________________________________________
+	____</span> <o:p></o:p></p></div><p class=MsoNormal><span style='font-fami
+	ly:"Arial"\,sans-serif'><o:p>&nbsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20201103T222458Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
